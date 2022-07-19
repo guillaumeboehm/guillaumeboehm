@@ -7,7 +7,7 @@ I'm currently learning Dart with Flutter.
 [![github stats](https://github-readme-stats.vercel.app/api?username=guillaumeboehm&show_icons=true&theme=github_dark)](https://github.com/guillaumeboehm)
 
 [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumeboehm&exclude_repo=zsh-bdi,shell-core,qmk_firmware,packages-main&layout=compact&theme=github_dark)](https://github.com/guillaumeboehm)
-[![github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=guillaumeboehm&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/guillaumeboehm)
+[![github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=guillaumeboehm&show_icons=true&theme=dark&hide_border=true)](https://github.com/guillaumeboehm)
 [![github trophies](https://github-profile-trophy.vercel.app/?username=guillaumeboehm)](https://github.com/guillaumeboehm)
 
 <!--
