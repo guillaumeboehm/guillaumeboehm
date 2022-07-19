@@ -8,7 +8,7 @@ I'm currently learning Dart with Flutter.
 
 [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumeboehm&exclude_repo=zsh-bdi,shell-core,qmk_firmware,packages-main&layout=compact&theme=github_dark&hide_border=true)](https://github.com/guillaumeboehm)
 [![github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=guillaumeboehm&show_icons=true&compact=true&theme=dark&hide_border=true)](https://github.com/guillaumeboehm)
-[![github trophies](https://github-profile-trophy.vercel.app/?username=guillaumeboehm&theme=radical)](https://github.com/guillaumeboehm)
+[![github trophies](https://github-profile-trophy.vercel.app/?username=guillaumeboehm&theme=radical&hide_border=true)](https://github.com/guillaumeboehm)
 
 <!--
 **guillaumeboehm/guillaumeboehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
