@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 Developer from baguette land, I like to work on poweruser stuff for my home setup.
 
