@@ -4,11 +4,11 @@ Developer from baguette land, I like to work on poweruser stuff for my home setu
 
 I'm currently learning Dart with Flutter.
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=guillaumeboehm&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/guillaumeboehm)
+[![github stats](https://github-readme-stats.vercel.app/api?username=guillaumeboehm&PAT_1=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&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/guillaumeboehm)
 
-[![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumeboehm&exclude_repo=zsh-bdi,shell-core,qmk_firmware,packages-main&layout=compact&theme=github_dark&hide_border=true)](https://github.com/guillaumeboehm)
+[![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumeboehm&PAT_1=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&exclude_repo=zsh-bdi,shell-core,qmk_firmware,packages-main&layout=compact&theme=github_dark&hide_border=true)](https://github.com/guillaumeboehm)
 [![github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=guillaumeboehm&show_icons=true&compact=true&theme=dark&hide_border=true)](https://github.com/guillaumeboehm)
-[![github trophies](https://github-profile-trophy.vercel.app/?username=guillaumeboehm&theme=darkhub&hide_border=true&column=-1&no-bg=true&no-frame=true)](https://github.com/guillaumeboehm)
+[![github trophies](https://github-profile-trophy.vercel.app/?username=guillaumeboehm&PAT_1=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&theme=darkhub&hide_border=true&column=-1&no-bg=true&no-frame=true)](https://github.com/guillaumeboehm)
 
 <!--
 **guillaumeboehm/guillaumeboehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
